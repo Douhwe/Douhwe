@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there!
 
-<!--
+💥 Work experience:
+
+Incoming Software Engineering Intern at Datadog ![Datadog Logo](https://github.com/user-attachments/assets/829fd99c-15d8-49a5-aa0d-9a6dac25a31f)
+
+Previous Software Development Engineering Intern at Amazon Web Services ![AWS Logo](https://github.com/user-attachments/assets/73806de7-eff8-45be-9baf-c1f6a74d2731)
+- Full-Stack Engineering on the Amazon Connect Scheduling team
+- Java, GraphQL, TypeScript + React.js
 **Douhwe/Douhwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
