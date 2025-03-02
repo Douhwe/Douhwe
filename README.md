@@ -1,23 +1,21 @@
 ## Hi there!
 
+I'm Andy, a computer science student based in New York City.
+
+📚 Current Interests
+
+  * Interested in exploring New Languages and Fields of Interest
+
 💥 Work experience:
 
-Incoming Software Engineering Intern at Datadog ![Datadog Logo](https://github.com/user-attachments/assets/829fd99c-15d8-49a5-aa0d-9a6dac25a31f)
+- **SWE Intern at Datadog**   ![Image](https://github.com/user-attachments/assets/6aa68617-233c-43b4-9b78-fced5eb4a6c4)
+  
+  * Incoming Summer 2025
+    
+- **Previous SDE Intern at Amazon Web Services**   ![Image](https://github.com/user-attachments/assets/8dedc44d-41b1-42a7-980b-d56509856c2f)
+  * Full-Stack Engineering on the Amazon Connect Scheduling team
+  * Java, GraphQL, TypeScript + React.js
 
-Previous Software Development Engineering Intern at Amazon Web Services ![AWS Logo](https://github.com/user-attachments/assets/73806de7-eff8-45be-9baf-c1f6a74d2731)
-- Full-Stack Engineering on the Amazon Connect Scheduling team
-- Java, GraphQL, TypeScript + React.js
-**Douhwe/Douhwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+📫 How to reach me:
+  
+  * andy7chen7[at]gmail[dot]com
