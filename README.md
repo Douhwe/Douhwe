@@ -8,7 +8,7 @@ I'm Andy, a computer science student based in New York City.
 
 💥 Work experience:
 
-- **SWE Intern at Datadog**   ![Image](https://github.com/user-attachments/assets/6aa68617-233c-43b4-9b78-fced5eb4a6c4)
+
   
 
     
@@ -19,3 +19,4 @@ I'm Andy, a computer science student based in New York City.
 📫 How to reach me:
   
   * andy7chen7[at]gmail[dot]com
+![Image](https://github.com/user-attachments/assets/6aa68617-233c-43b4-9b78-fced5eb4a6c4)
